@@ -6,7 +6,7 @@ import {getAnalytics} from "firebase/analytics";
 import App from './App.vue'
 import router from './router'
 
-import './assets/main.css'
+import './assets/base.css'
 
 const firebaseConfig = {
     apiKey: "AIzaSyB9f081hs6t2drRL0Ed_xD5fY8_CuGRrX8",
